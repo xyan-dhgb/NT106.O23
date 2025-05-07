@@ -1,0 +1,34 @@
+[
+  {
+    "TenPhim": "Gặp lại chị bầu",
+    "SoVeBanRa": 6,
+    "SoLuongVeTon": 9,
+    "TiLeVeBanRa": 0.66669999999999996,
+    "DoanhThu": 455000,
+    "XepHangDoanhThu": 1
+  },
+  {
+    "TenPhim": "Đào, phở và Piano",
+    "SoVeBanRa": 0,
+    "SoLuongVeTon": 45,
+    "TiLeVeBanRa": 0,
+    "DoanhThu": 0,
+    "XepHangDoanhThu": 2
+  },
+  {
+    "TenPhim": "Mai",
+    "SoVeBanRa": 0,
+    "SoLuongVeTon": 30,
+    "TiLeVeBanRa": 0,
+    "DoanhThu": 0,
+    "XepHangDoanhThu": 3
+  },
+  {
+    "TenPhim": "Tarot",
+    "SoVeBanRa": 0,
+    "SoLuongVeTon": 15,
+    "TiLeVeBanRa": 0,
+    "DoanhThu": 0,
+    "XepHangDoanhThu": 4
+  }
+]
